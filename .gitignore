@@ -130,6 +130,7 @@ dmypy.json
 
 # PyCharm
 .idea/
+.idea
 
 # Eigene
 testemls/test.eml
